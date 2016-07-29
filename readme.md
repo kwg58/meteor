@@ -5,10 +5,12 @@ We first heard of it when Jessie mentioned it earlier.  After learning about Web
 * Code works on multiple platforms (can compile versions for IOS and Android)
 * Works and plays well with others (Works with Android and other frameworks)
 * Reactive technology builds fast applications (sends data across the wire, not HTML).
+
 ##Why does one use it?
 * Build real-time apps using JavaScript, which lots of people know
 * Real-time syncing of data on different devices
 * Fairly fast learning curve
+
 ##What are the alternatives?
 socket.io or express.io can do some of these things, but don't seem to be as comprehensive.
 ##What is it similar to, if anything?
