@@ -40,13 +40,15 @@ A lot of moving parts (templates, scripts, scripts that call templates, template
 * https://www.discovermeteor.com/
 * https://bulletproofmeteor.com/
 * https://www.udemy.com/learn-meteorjs-by-building-10-real-world-projects/
+
 ##What article or forum was most helpful to you in learning this?
 The Meter website and the Wikipedia article.
+
 ##What are 3 interview questions one might be asked about this technology?
 
-What is reactive technology?
-How does reactive technology differ from other technology?
-What database systems does Meteor work with?
+* What is reactive technology?
+* How does reactive technology differ from other technology?
+* What database systems does Meteor work with?
 
 ##To run the example:
 
@@ -55,6 +57,7 @@ What database systems does Meteor work with?
 * From a browser window, type **http://localhost:3000** and hit enter.
 * You'll see "Welcome to Meteor", a click button, and some links to support and info sites.  
 * While this is running, if you change the main.html file in the client folder and save it, the information in the browser window will change automagically.  
+* Meteor applications can be deployed to Heroku.
 
 
 Also, please include the instructions necessary to...
