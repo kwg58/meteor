@@ -43,9 +43,18 @@ A lot of moving parts (templates, scripts, scripts that call templates, template
 ##What article or forum was most helpful to you in learning this?
 The Meter website and the Wikipedia article.
 ##What are 3 interview questions one might be asked about this technology?
+
 What is reactive technology?
 How does reactive technology differ from other technology?
+What database systems does Meteor work with?
 
+##To run the example:
+
+* Clone the repository
+* Start the server: type **meteor** and hit enter.
+* From a browser window, type **http://localhost:3000** and hit enter.
+* You'll see "Welcome to Meteor", a click button, and some links to support and info sites.  
+* While this is running, if you change the main.html file in the client folder and save it, the information in the browser window will change automagically.  
 
 
 Also, please include the instructions necessary to...
