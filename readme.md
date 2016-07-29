@@ -36,6 +36,7 @@ http://stephenwalther.com/archive/2014/12/05/dont-do-react-understanding-meteor-
 https://en.wikipedia.org/wiki/Meteor_(web_framework)
 https://www.discovermeteor.com/
 https://bulletproofmeteor.com/
+https://www.udemy.com/learn-meteorjs-by-building-10-real-world-projects/
 ##What article or forum was most helpful to you in learning this?
 The Meter website and the Wikipedia article.
 ##What are 3 interview questions one might be asked about this technology?
