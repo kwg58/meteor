@@ -4,7 +4,7 @@ We first heard of it when Jessie mentioned it earlier.  After learning about Web
 * Rapid development (integrated JavaScript libraries for both server and client)
 * Code works on multiple platforms (can compile versions for IOS and Android)
 * Works and plays well with others (Works with Android and other frameworks)
-* Reactive technology builds fast applications (sends data across the wire, not HTML)
+* Reactive technology builds fast applications (sends data across the wire, not HTML).
 ##Why does one use it?
 * Build real-time apps using JavaScript, which lots of people know
 * Real-time syncing of data on different devices
@@ -12,7 +12,7 @@ We first heard of it when Jessie mentioned it earlier.  After learning about Web
 ##What are the alternatives?
 socket.io or express.io can do some of these things, but don't seem to be as comprehensive.
 ##What is it similar to, if anything?
-It has elements of everything we've touched on here in WDI.  The file folder structure looks like Rails or Angular, the templates are like Angular partials,
+It has elements of everything we've touched on here in WDI.  The file folder structure looks like Rails or Angular, the templates are like Angular partials.
 ##What is the history of this technology?
 * First introduced in December 2011 under the name Skybreak.
 * First actual shipment late 2012.  
