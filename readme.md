@@ -25,6 +25,7 @@ The founders of the company include people with a lot of startup experience:
 * Matt DeBergalis, the founder and operator of fundraising platform ActBlue
 * Nick Martin, built the infrastructure behind Mochi Media, co-founded MixApp  with Schmidt
 * David Greenspan, the author of Etherpad, which he sold to Google before going to work on Google Wave and Google App Engine.
+
 ##Who is maintaining it?
 The product was developed by the Meteor company, who are still maintaining it.  Schmidt, DeBergalis, and Martin are still there.  The source is maintained on GitHub and they accept contributions from the open source community.  
 ##What is your opinion on the technology after having built something with it?
