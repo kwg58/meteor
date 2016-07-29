@@ -32,13 +32,13 @@ It's very fast and once someone becomes used to the structure I can see how it c
 ##What are the biggest conceptual hurdles (if any) you encountered when researching this?
 A lot of moving parts (templates, scripts, scripts that call templates, templates that require script, etc.)
 ##What resources do you recommend for interested students?
-http://meteor.com tutorials and documentation
-https://gigaom.com/2014/12/27/meteor-wants-to-be-the-warp-drive-for-building-real-time-apps/
-http://stephenwalther.com/archive/2014/12/05/dont-do-react-understanding-meteor-reactive-programming
-https://en.wikipedia.org/wiki/Meteor_(web_framework)
-https://www.discovermeteor.com/
-https://bulletproofmeteor.com/
-https://www.udemy.com/learn-meteorjs-by-building-10-real-world-projects/
+* http://meteor.com tutorials and documentation
+* https://gigaom.com/2014/12/27/meteor-wants-to-be-the-warp-drive-for-building-real-time-apps/
+* http://stephenwalther.com/archive/2014/12/05/dont-do-react-understanding-meteor-reactive-programming
+* https://en.wikipedia.org/wiki/Meteor_(web_framework)
+* https://www.discovermeteor.com/
+* https://bulletproofmeteor.com/
+* https://www.udemy.com/learn-meteorjs-by-building-10-real-world-projects/
 ##What article or forum was most helpful to you in learning this?
 The Meter website and the Wikipedia article.
 ##What are 3 interview questions one might be asked about this technology?
